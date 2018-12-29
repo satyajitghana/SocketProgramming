@@ -1,0 +1,3 @@
+/mnt/d/SocketProgramming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/SocketProgramming/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/SocketProgramming/cmake-build-debug/CMakeFiles/SocketProgramming.dir

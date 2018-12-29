@@ -1,0 +1,10 @@
+//
+// Created by shadowleaf on 29-Dec-18.
+//
+
+#ifndef SOCKETPROGRAMMING_PACKET_SNIFFER_H
+#define SOCKETPROGRAMMING_PACKET_SNIFFER_H
+
+int start_sniff();
+
+#endif //SOCKETPROGRAMMING_PACKET_SNIFFER_H

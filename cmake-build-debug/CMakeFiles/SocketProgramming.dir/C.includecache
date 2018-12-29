@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/SocketProgramming/main.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+sys/socket.h
+-
+netinet/tcp.h
+-
+netinet/ip.h
+-
+arpa/inet.h
+-
+
+/mnt/d/SocketProgramming/packet_sniffer.c
+packet_sniffer.h
+/mnt/d/SocketProgramming/packet_sniffer.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+netinet/ip.h
+-
+sys/socket.h
+-
+arpa/inet.h
+-
+
+/mnt/d/SocketProgramming/packet_sniffer.h
+
